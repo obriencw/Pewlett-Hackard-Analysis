@@ -12,7 +12,7 @@ For the purpose of this analysis, we determined that the employees who would be 
 
 (Image 2)
 
-![Retiring Titles](Images/retiring_titles.png)
+![Retiring Titles](Images/retiring_titles.PNG)
 
 (Image 3)
 
